@@ -5,6 +5,7 @@ function App() {
     <>
      <Navbar/>
      <dibv>hello jaanu</dibv>
+     <h1>Hello</h1>
     </>
   );
 }
