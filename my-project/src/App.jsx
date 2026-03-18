@@ -9,3 +9,5 @@ function App() {
 }
 
 export default App;
+
+// npm install tailwindcss @tailwindcss/vite --legacy-peer-deps
